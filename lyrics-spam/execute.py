@@ -10,8 +10,5 @@ time.sleep(5)
 
 for line in file:
     for word in line.split():
-        if (pyautogui.press('ctrl')):
-            break
-        else:
-            pyautogui.write(word)
-            pyautogui.press('enter')
+        pyautogui.write(word)
+        pyautogui.press('enter')
