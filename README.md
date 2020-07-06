@@ -22,7 +22,14 @@ After that you're all set to run the program.
 
 Once you've completed the steps you can run the program, and enjoy! :)
 
-For now, the only way to stop the program is by using the ```CTRL + C``` shortcut.
+## STOPPING ##
+
+For now, there is no implemented way to stop the program. 
+I'm trying to figure out how to stop the program without shutting down the whole script
+
+## WARNINGS ##
 
 **WARNING: You'll have _5 seconds_ after starting the program before the spamming starts.**
 **WARNING: _DO THIS AT YOUR OWN RISK! I'M NOT RESPONSIBLE FOR THE ABUSE YOU CAUSE WITH THIS CODE_**
+
+Everything is explained in detail in the ```LICENCE``` file.
